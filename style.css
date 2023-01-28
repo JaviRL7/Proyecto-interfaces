@@ -1,13 +1,14 @@
 body{
   background-color: #343a40;
 }
-.bg-image {
+.bg-image{
 background-image: url('Imagenes/fondo.png');
 background-size: cover;
 background-attachment: fixed;
-opacity: 25%;
+opacity: 0.25;
 height: 100vh;
+
 }
-#tab{
-opacity: 100% !important;
+.img-fluid img{
+  opacity: 1 !important;
 }
