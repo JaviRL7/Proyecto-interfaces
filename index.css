@@ -1,0 +1,40 @@
+body{
+  background-color: #212121;
+}
+
+#footer{
+  background-color: #343a40;
+}
+#header{
+  background-color: #212121;
+}
+
+h1{
+  color: white;
+  font-family: 'Fjalla One', sans-serif;
+}
+
+div.card{
+  border: 0;
+
+  background-color: #353535;
+}
+
+div.card h3{
+  color: white;
+}
+
+div.card p{
+  color: #656565;
+}
+
+hr{
+  width: 100%;
+  height: 3px;
+  background-color: gray;
+  border: 0;
+}
+
+h4{
+  color: #454545;
+}

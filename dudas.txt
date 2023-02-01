@@ -7,3 +7,14 @@
 -Probar pagina principal con el fondo como video.
 -https://www.w3schools.com/howto/howto_css_dividers.asp
 para la linea de separacion
+
+
+
+-----------
+
+
+
+-Para las tarjetas de noticias poner antes del titulo autor y foto 
+-Poner el body de un color mas oscuro y un enlace para leer mas
+-Que vaya a una pagina prototipo de noticia 
+
