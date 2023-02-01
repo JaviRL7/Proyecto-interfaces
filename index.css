@@ -39,6 +39,84 @@ h4{
   color: #454545;
 }
 
-#rectangulo{
-  background-color: blue;
+#rectangulo1{
+  background-color: #757575;
+  height: 150px;
+  display: flex;
+  align-items: center;
+  align-items: center;
+
+}
+
+#rectangulo2{
+  background-color: #757575;
+  height: 150px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+
+#rectangulo3{
+  background-color: #757575;
+  height: 150px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+#rectangulo4{
+  background-color: #757575;
+  height: 150px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+#rectangulo5{
+  background-color: #757575;
+  height: 150px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+#rectangulo6{
+  background-color: #757575;
+  height: 150px;
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  
+}
+#centrar{
+  justify-content: center;
+  display: flex;
+  align-items: center;
+}
+
+
+
+#rectangulo1:hover {
+  background-color: blue;  
+  }
+
+#rectangulo1:hover #affected {
+filter: invert(100%);  
+}
+
+#rectangulo2:hover {
+  background-color: red;  
+  }
+
+#rectangulo2:hover #affected {
+filter: invert(100%);  
+}
+
+#rectangulo3:hover {
+  background-color: yellow;  
+  }
+
+#rectangulo3:hover #affected {
+filter: invert(100%);  
 }

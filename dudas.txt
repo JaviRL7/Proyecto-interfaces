@@ -18,3 +18,8 @@ para la linea de separacion
 -Poner el body de un color mas oscuro y un enlace para leer mas
 -Que vaya a una pagina prototipo de noticia 
 
+----
+
+Por que no se me centra la foto del 5 ????
+
+El espacio entre los divs
