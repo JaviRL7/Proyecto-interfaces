@@ -120,3 +120,24 @@ filter: invert(100%);
 #rectangulo3:hover #affected {
 filter: invert(100%);  
 }
+
+#rectangulo4:hover #affected {
+  filter: invert(100%);  
+  }
+
+#rectangulo5:hover #affected {
+    filter: invert(100%);  
+    }
+#rectangulo6:hover #affected {
+  filter: invert(100%);  
+}
+
+#rectangulo4:hover {
+  background-color: purple;  
+  }
+#rectangulo5:hover {
+    background-color: green;  
+}
+#rectangulo6:hover {
+    background-color: orange;  
+}
