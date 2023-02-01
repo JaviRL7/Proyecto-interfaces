@@ -5,3 +5,5 @@
 -https://www.layoutit.com/build
 -https://blog.aulaformativa.com/ejemplos-efectos-de-texto-css-codepen/
 -Probar pagina principal con el fondo como video.
+-https://www.w3schools.com/howto/howto_css_dividers.asp
+para la linea de separacion
