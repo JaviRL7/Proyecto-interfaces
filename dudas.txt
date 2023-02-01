@@ -1,0 +1,7 @@
+-El problema del espacio alrededor de los div del header (en la pagina video.)
+-Preguntar como quitar ese espacio
+-Cambiar forma cards 
+-Espacio entre card de videos
+-https://www.layoutit.com/build
+-https://blog.aulaformativa.com/ejemplos-efectos-de-texto-css-codepen/
+-Probar pagina principal con el fondo como video.
