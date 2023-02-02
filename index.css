@@ -4,6 +4,7 @@ body{
 
 #footer{
   background-color: #343a40;
+  height: 400px;
 }
 #header{
   background-color: #212121;
@@ -36,7 +37,7 @@ div.card p{
 }
 
 h4{
-  color: #454545;
+  color: #656565;
 }
 
 #rectangulo1{
@@ -140,4 +141,19 @@ filter: invert(100%);
 }
 #rectangulo6:hover {
     background-color: orange;  
+}
+
+
+#guia:hover{
+filter: blur(8px);
+}
+
+.img-fluid:hover{
+  transform: scale(1.05);
+
+}
+
+span{
+  font-size: x-large;
+  color: white;
 }

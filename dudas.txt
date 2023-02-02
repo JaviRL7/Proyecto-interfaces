@@ -23,3 +23,4 @@ para la linea de separacion
 Por que no se me centra la foto del 5 ????
 
 El espacio entre los divs
+https://codepen.io/ para sacar las tarjetas
