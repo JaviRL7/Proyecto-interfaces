@@ -24,3 +24,19 @@ Por que no se me centra la foto del 5 ????
 
 El espacio entre los divs
 https://codepen.io/ para sacar las tarjetas
+
+
+-----Poner borde al articulo con hover, y que la letra cambie de color. 
+Poner el autor con foto de perfil
+-----Poner boton read more
+
+
+
+
+
+
+
+----------------------------------------------------
+
+
+Probar con clase card (es de bootstrap) y carta ///
