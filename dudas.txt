@@ -40,3 +40,20 @@ Poner el autor con foto de perfil
 
 
 Probar con clase card (es de bootstrap) y carta ///
+
+
+
+
+-----------
+PROBAR ENLACES SIN span 
+cambiar color y quitar subrayado 
+
+
+-----
+
+
+los cuadrados de colores con img fluid intentar centrar el nav 
+------
+
+
+el footer intentar que se mantenga los logos en linea
